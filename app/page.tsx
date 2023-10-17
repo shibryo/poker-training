@@ -1,3 +1,6 @@
+import React from "react";
+import Home from ".";
+
 export default function Page() {
-    return <h1>Hello, Next.js!</h1>
+    return <Home/>
   }
